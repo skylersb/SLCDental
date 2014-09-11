@@ -1,0 +1,168 @@
+body,html { 
+height: 100%;
+width: 100%;
+margin: 0;
+border: none;
+
+  }
+
+.outerBack {
+	background-color: #005AA3;
+	height: 2531px;
+	
+}
+
+.outerBack .topInfo {
+	
+	color: #f1f1f1;
+	font-family: helvetica, arial;
+	font-size: 68.8%;
+	margin: 1% 0 0 25%;
+	display: inline-block;
+}
+
+.outerBack .infoNum {
+	display: inline-block;
+	font-size: 68.8%;
+	color: #f1f1f1;
+}
+
+.spacer1 {
+	color: #f1f1f1;
+	font-size: 68.8%;
+	display:inline-block;
+	padding-right: 1%;
+}
+
+.spacer2 {
+	font-size: 68.8%;
+	color: #f1f1f1;
+	display:inline-block;
+	padding-left: 1%;
+}
+.mainCont {
+	background-color: #fff;
+	height: 2013px;
+	width: 930px;
+	margin: 5px 175px;
+}
+
+nav {
+	color: #005AA3;
+	height: 50px;
+
+}
+
+.logo {
+	margin: 20px 0 0 10px;
+	float: left;
+}
+
+nav ul {
+
+}
+
+nav ul li {
+	
+	list-style-type: none;
+	width: 45px;
+	float: left;
+	margin-left: 40px;
+}
+
+li a {
+	font-size: 19px;
+	text-decoration: none;
+	color: #005AA3;
+	line-height: 110px;
+	display: inline-block;
+}
+
+.mainPic {
+	margin: 25px;
+}
+
+.middleInfo {
+	
+}
+
+.row1 .item{
+	margin: 5% 1% 0 2%;
+	display: inline-block;
+
+}
+
+.row2 {
+	margin: 4% 3% 0 3%;
+	height: 110px;
+	width: 260px;
+	display: inline-block;
+	text-align: left;
+	float:left;
+
+}
+
+.row3 {
+	margin: 4% 1.25% 0 1.25%;
+	height: 110px;
+	width: 275px;
+	display: inline-block;
+	text-align: left;
+	float: left;
+
+}
+
+.row4 {
+	margin: 4% 1.5% 0 2%;
+	height: 110px;
+	width: 275px;
+	display: inline-block;
+	text-align: left;
+	float: left;
+}
+
+.row5  a {
+	margin: 1% 0 0 4%;
+	display: inline-block;
+	float: left;
+	height: 50px;
+	width: 275px;
+	text-decoration: none;
+	color: black;
+
+	
+}
+
+.row6  a {
+	margin: 1% 0 0 3%;
+	display: inline-block;
+	float:left;
+	height: 50px;
+	width: 275px;
+	text-decoration: none;
+	color: black;
+}
+
+.row7  a {
+	margin: 1% 0 0 3%;
+	display: inline-block;
+	float: left;
+	height: 50px;
+	width: 275px;
+	text-decoration: none;
+	color: black;
+	
+}
+
+.bodyPic {
+	margin: 35px 0 0 30px;
+}
+
+.bodyPar  {
+	margin: 20px 40px;
+	text-align: left;
+}
+
+.youtube-player {
+	
+}
